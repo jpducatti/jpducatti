@@ -1,4 +1,4 @@
-## Hello There, Greeting from Brazil :brazil:
+## Hello There, Greetings from Brazil :brazil:
 
 :smile: Pronouns: He/Him
 
