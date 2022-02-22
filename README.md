@@ -2,7 +2,7 @@
 
 :smile: Pronouns: He/Him
 
-:books: I am currently developing myself in Data Science with a post-graduate course
+:books: I am currently developing myself in Data Science using Python with a post-graduate course
 
 :writing_hand: I write some stuffs here:   https://ducattijp.substack.com/
 
