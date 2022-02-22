@@ -6,6 +6,6 @@
 
 :writing_hand: I write some stuffs here:   https://ducattijp.substack.com/
 
-:art: opics of interest: Jogging, fitness topics, data science, psychology
+:art: Topics of interest: Jogging, fitness topics, data science, psychology, fictional books
 
 
